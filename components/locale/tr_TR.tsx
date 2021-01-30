@@ -21,6 +21,7 @@ const localeValues: Locale = {
     filterConfirm: 'Tamam',
     filterReset: 'Sıfırla',
     filterEmptyText: 'Filtre yok',
+    emptyText: 'Veri yok',
     selectAll: 'Tüm sayfayı seç',
     selectInvert: 'Tersini seç',
     selectionAll: 'Tümünü seç',
@@ -123,6 +124,9 @@ const localeValues: Locale = {
         mismatch: '${label} şu kalıpla eşleşmeli: ${pattern}',
       },
     },
+  },
+  Image: {
+    preview: 'Önizle',
   },
 };
 
